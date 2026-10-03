@@ -206,8 +206,8 @@
   --c-metal: oklch(0.800 0.010 250);
   --c-metal-hi: oklch(0.930 0.006 250);
   --c-glass: oklch(0.320 0.020 250);
-  --c-car-wall: oklch(0.930 0.014 80);
-  --c-car-ceil: oklch(0.960 0.010 85);
+  --c-car-wall: oklch(0.910 0.016 80);
+  --c-car-ceil: oklch(0.870 0.014 80);
   --c-car-floor: oklch(0.700 0.020 70);
   --c-car-end: oklch(0.860 0.015 80);
   --c-seat-a: oklch(0.620 0.130 325);
